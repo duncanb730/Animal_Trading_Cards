@@ -1,0 +1,47 @@
+body {
+	font-family: 'open sans', sans-serif;
+	font-size: 13px;
+	border: 2px outset;
+	margin: auto;
+	max-width: 315px;
+
+}
+
+
+.image {
+	border: thin black;
+	padding-left: 7px;
+	padding-right: 5px;
+}
+
+.frame {
+	width: 300px;
+	border: thin solid #969393;
+	margin: 6px;
+}
+
+.data {
+	/*margin: 5px;*/
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.list {
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: left;
+	font-style: italic;
+}
+li {
+	list-style: none;
+	vertical-align: left;
+	margin-left: -45px;
+}
+span {
+	font-weight: 700;
+	font-style: normal;
+}
+
+.fact {
+	font-style: italic;
+}
+
